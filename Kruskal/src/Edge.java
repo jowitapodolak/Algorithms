@@ -1,5 +1,4 @@
 public class Edge implements Comparable<Edge>{
-    //maybe it should be a subclass of MST?
     private int u; 
     private int v; 
     private int weight; 
