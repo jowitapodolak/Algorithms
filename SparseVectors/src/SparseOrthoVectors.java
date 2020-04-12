@@ -3,9 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.HashSet;
 
-/**
- * Created by Ada on 25.09.2019.
- */
+
 public class SparseOrthoVectors
 {
     public static void main(String[] args) throws IOException {
