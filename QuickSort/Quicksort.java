@@ -2,8 +2,7 @@ import edu.princeton.cs.algs4.*;
 
 public class Quicksort{
 
-  //Comparable[] a means that I have an array of any objects that are comparable
-  //return index j
+
   private static int partition(Comparable[] a, int lo, int hi){
 
     int i =lo, j=hi+1; //hi+1 just before hte first thing we do with before anything else is to decrement it.
@@ -71,7 +70,7 @@ public class Quicksort{
 
   public static void main(String[] args)
   {
-    //int cannot be converted to comparable - what to do about it?
+
     int[] array = {2,4,5,3,5,6,1,9,1,2};
     Quicksort.sort(array);
   }
@@ -80,4 +79,4 @@ public class Quicksort{
 
 
 
-//why i can just use compare to on comparable objects - this is method from they class, did i created instanstances? is new Comparable an instance?
+
