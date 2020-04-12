@@ -118,9 +118,7 @@ public class Main {
 
     public static void main(String[] args) {
         Main mh = new Main();
-        // mh.iterateThroughVectors(); //
-        //System.out.println(mh.getMap());
-        mh.iterateThroughBuckets(); // what now that I have this bucket - check
+        mh.iterateThroughBuckets();
 
     }
 }
