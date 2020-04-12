@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SparseInnerProductMap",
+            "request": "launch",
+            "mainClass": "SparseInnerProductMap",
+            "projectName": "SparseVectors"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SparseInnerProductDummy2",
+            "request": "launch",
+            "mainClass": "SparseInnerProductDummy2",
+            "projectName": "SparseVectors"
+        }
+    ]
+}

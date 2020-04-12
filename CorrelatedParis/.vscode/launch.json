@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MinHash",
+            "request": "launch",
+            "mainClass": "MinHash",
+            "projectName": "CorrelatedParis"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OVectorsBuffer",
+            "request": "launch",
+            "mainClass": "OVectorsBuffer",
+            "projectName": "OrthogonalVectors"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OVectors",
+            "request": "launch",
+            "mainClass": "OVectors",
+            "projectName": "OrthogonalVectors"
+        }
+    ]
+}
