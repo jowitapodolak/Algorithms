@@ -36,7 +36,7 @@ public static int indexOf(int[] a, int key )
 
 public static void main(String[] args)
 {
-  // is this object existing already whaat
+
   In in =new In(args[0]);
   int[] whitelist =in.readAllInts();
   Arrays.sort(whitelist);
